@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-    <resources>
+<resources>
 
     <string name="app_name">Howlstagram</string>
 
@@ -96,8 +96,8 @@
     <!-- etc -->
 
 
-    <item name="visible" type="id"/>
+    <item name="visible" type="id" />
 
-    <item name="masked" type="id"/>
+    <item name="masked" type="id" />
 
 </resources>
