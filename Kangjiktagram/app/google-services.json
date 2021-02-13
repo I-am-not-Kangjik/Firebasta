@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206305480288",
+    "project_id": "kangjiktagram",
+    "storage_bucket": "kangjiktagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206305480288:android:d5fa1cf21c7d2b17eabd05",
+        "android_client_info": {
+          "package_name": "com.example.kangjiktagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206305480288-54v595k5t3pa00jkq4sgfui6q4df3cns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIoKh1Mgay6xti8VdB8C5FBLJuNKl1U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206305480288-54v595k5t3pa00jkq4sgfui6q4df3cns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
